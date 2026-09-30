@@ -15,7 +15,9 @@ h2{font-size:1.15rem;font-weight:600;margin:2.6rem 0 1rem;padding-top:1.1rem;bor
 .top .links{margin:0}
 .top .site{font-weight:600;color:var(--ink);text-decoration:none}
 .links a[aria-current]{color:var(--ink);font-weight:600;text-decoration:none}
-.bio{margin:0}
+.bio{margin:0 0 .8rem}
+.interests{list-style:none;margin:0 0 .8rem;padding:0}
+.interests li{margin:.2rem 0}
 .row{display:grid;grid-template-columns:7rem 1fr;gap:.2rem 1.2rem;margin-bottom:.9rem}
 .when{color:var(--mute);font-size:.9rem;padding-top:.15rem}
 .item{margin:0 0 1.3rem}
